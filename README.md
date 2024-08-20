@@ -1,2 +1,2 @@
 # caronunezz
-Repo laboratorio de programación científica.
+Repositorio laboratorio de programación científica.
